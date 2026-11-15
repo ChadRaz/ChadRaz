@@ -4,11 +4,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations Projects
 
-My Security Operations projects are [HERE](https://github.com/ChadRaz/SecurityOperations)
+My Security Operations Projects are [HERE](https://github.com/ChadRaz/SecurityOperations)
+
+## 🤖 AI Projects
+
+My AI Projects are [HERE](https://github.com/ChadRaz/AI)
 
 ## ⚠️ Vulnerability Management Projects
 
-My Vulnerabilty Management Projects are located [HERE](https://github.com/ChadRaz/VulnerablityManagement)
+My Vulnerabilty Management Projects are [HERE](https://github.com/ChadRaz/VulnerablityManagement)
 
 ---
 
