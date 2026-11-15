@@ -8,7 +8,7 @@ My Vulnerabilty Management Projects are located [HERE](https://github.com/ChadRa
 
 ## 🚨 Threat Hunting and Security Operations Projects
 
-My Security operations projects are [HERE](https://github.com/ChadRaz/SecurityOperations)
+My Security Operations projects are [HERE](https://github.com/ChadRaz/SecurityOperations)
 
 ---
 
