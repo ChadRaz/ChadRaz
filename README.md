@@ -10,6 +10,10 @@ My Security Operations Projects are [HERE](https://github.com/ChadRaz/SecurityOp
 
 My AI Projects are [HERE](https://github.com/ChadRaz/AI)
 
+## ⚙️ SOAR Projects
+
+My SOAR projects are [HERE}(https://github.com/ChadRaz/SOAR)
+
 ## ⚠️ Vulnerability Management Projects
 
 My Vulnerabilty Management Projects are [HERE](https://github.com/ChadRaz/VulnerablityManagement)
