@@ -12,7 +12,7 @@ My AI Projects are [HERE](https://github.com/ChadRaz/AI)
 
 ## ⚙️ SOAR Projects
 
-My SOAR projects are [HERE}(https://github.com/ChadRaz/SOAR)
+My SOAR projects are [HERE](https://github.com/ChadRaz/SOAR)
 
 ## ⚠️ Vulnerability Management Projects
 
